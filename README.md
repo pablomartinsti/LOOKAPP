@@ -58,6 +58,19 @@ LOOKAPP/
   <li><strong>Carrinho de Compras:</strong> Mostra os itens selecionados e permite ajustes antes da compra.</li>
   <li><strong>Área de Pedidos:</strong> Histórico detalhado dos pedidos realizados.</li>
 </ul>
+<br>
+
+<br>
+<h2 >📷 Telas do Projeto</h3>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="https://github.com/pablomartinsti/LOOKAPP/blob/main/assets/screen-2.png" alt="Tela principal do Projeto LOOKAPP" style="max-width: 100%; height: auto;">
+</p>
+<p align="center">
+  <img src="https://github.com/pablomartinsti/LOOKAPP/blob/main/assets/screen-1.png" alt="Tela de Login do Projeto LOOKAPP" style="max-width: 100%; height: auto;">
+</p>
 
 <h2>⚙️ Como Executar o Projeto</h2>
 <ol>
